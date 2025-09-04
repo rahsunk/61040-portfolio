@@ -12,6 +12,12 @@ Some facts about me:
 2. I am half Japanese and half African-American.
 3. My hobbies include playing video games, long walks, and international travel.
 
+My goals for this semester:
+
+- Create a cool project from a well thought-out design.
+- Learn more about full-stack development.
+- Learn how to incorporate LLM use safely and ethically.
+
 _Here's a picture of Kirby because why not_
 
 ![Kirby is not here right now](assets/kirby-puffy.png)
@@ -19,3 +25,4 @@ _Here's a picture of Kirby because why not_
 # Table of Contents
 
 [Link to Assignment 1](assignments/assignment1.md)
+[Link to Assignment 2](assignments/assignment2.md)
