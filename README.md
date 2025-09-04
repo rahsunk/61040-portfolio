@@ -25,4 +25,5 @@ _Here's a picture of Kirby because why not_
 # Table of Contents
 
 [Link to Assignment 1](assignments/assignment1.md)
+
 [Link to Assignment 2](assignments/assignment2.md)
