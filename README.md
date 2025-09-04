@@ -2,7 +2,9 @@
 
 # About Me
 
-\_My name is Rahsun Komatsuzaki-Fields, I'm a junior at MIT studying computer science and engineering, check out some of my work! [Connect with me on Linkedin!](https://www.linkedin.com/in/rahsun-komatsuzaki-fields-089b5b245/)
+My name is Rahsun Komatsuzaki-Fields and I'm a junior at MIT studying computer science and engineering.
+
+Check out some of my work! [Connect with me on Linkedin!](https://www.linkedin.com/in/rahsun-komatsuzaki-fields-089b5b245/)
 
 Some facts about me:
 
