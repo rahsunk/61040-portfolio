@@ -11,6 +11,7 @@ Some facts about me:
 3. My hobbies include playing video games, long walks, and international travel.
 
 _Here's a picture of Kirby because why not_
+
 ![Kirby is not here right now](assets/kirby-puffy.png)
 
 # Table of Contents
