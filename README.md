@@ -1,17 +1,18 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
+# Rahsun's Portfolio
 
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
 
-Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+\_My name is Rahsun Komatsuzaki-Fields, I'm a junior at MIT studying computer science and engineering, check out some of my work! [Connect with me on Linkedin!](https://www.linkedin.com/in/rahsun-komatsuzaki-fields-089b5b245/)
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+Some facts about me:
 
+1. I am from New York City.
+2. I am half Japanese and half African-American.
+3. My hobbies include playing video games, long walks, and international travel.
+
+_Here's a picture of Kirby because why not_
+![Kirby is not here right now](assets/kirby-puffy.png)
 
 # Table of Contents
+
 [Link to Assignment 1](assignments/assignment1.md)
