@@ -1,13 +1,13 @@
 # Problems for selected domains
 
-## Selected problems are bolded\*\*
+## Selected problems are bolded
 
 1. Video games:
    (Used ChatGPT to generate a list of problems associated with this domain; explanations provided by myself)
 
-- **Finding communities: finding small gaming clubs, finding people with same gaming interests**
+- **Finding communities: finding small gaming clubs and people with same gaming interests**
 
-  My friend group likes a bunch of games that I am not too interested in, and vice versa. Though I still enjoy playing all games with them, I always think it would be really nice to find others who are passionate about the same games that I am. Though online communities for games exist everywhere, these communities tend to be very large and it can be overwhelming befriending people there. I think an app that searches for gaming communities in a much smaller scale would make people more comfortable with finding gaming buddies.
+  My friend group likes a bunch of games that I am not too interested in, and vice versa. Though I still enjoy playing all games with them, I always think it would be really nice to find others who are passionate about the same games that I am. Though online communities for games do exist, these communities tend to be very large and it can be overwhelming befriending people there. I think an app that searches for gaming communities in a much smaller scale would make people more comfortable with finding potential gaming buddies.
 
 - Health risks: Addiction, eye strain, hand strain
 
@@ -15,13 +15,13 @@
 
 - Technical issues: Internet issues, outdated hardware, crossplay between systems
 
-  Reason for exclusion: Most technical issues that arise from gaming could be solved by getting better hardware, such as a better computer, better internet, or troubleshooting online. These solutions are beyond the scope of a single software application.
+  Reason for exclusion: Many technical issues that arise from gaming could be solved by getting better hardware, such as a better computer or better internet. For software issues, you can troubleshoot online and find numerous solutions that go beyond the scope of a single software application.
 
 2. Traveling:
 
 - **Navigating new areas: Learning how to use transit systems, using foreign currency, learning etiquette and culture**
 
-  Physical travel guides frequently contain outdated information, and in my experience, their features have been separated into multiple apps, such as an app just for finding rooms, and an app just for transit. I think an online app with continuously updated information from user feedback would be a better way for people, especially newcomers to navigate places they visit.
+  Physical travel guides frequently contain outdated information. In my experience, their features have since been separated into multiple apps, such as an app just for finding rooms, and an app just for transit. I think an online touring application that combines these features would be a better way for people, especially newcomers to navigate places they visit. Using user feedback, the app could be continously updated with accurate information.
 
 - Budgeting: Easy to overspend on vacations, planning budget on hotels, food, etc.
 
@@ -37,10 +37,10 @@
 
   As someone who has repeatedly had issues with time management, I have often heard the advice that you should schedule not just your work, but your everyday routine, including eating, sleeping, and downtime. However, I find scheduling all of this to be daunting. The timing of my activities in my daily routine changes all the time, so it would be difficult for me to come up with a schedule on my own. I think an app that can generate a weekly schedule for me would be a great first step in improving time management skills.
 
-- Bad mental health: Stress and burnout, discouraged from trying
+- Bad mental health: Stress and burnout, discouragement in doing work
 
-  Reason for exclusion: For my case, if I am struggling with my mental health relating to my schoolwork, I know the resources that I can access that are provided to me by my classes and by the school. I imagine that students in other universities have their own support network, which an application may be unaware of.
+  Reason for exclusion: For my case, if I am struggling with my mental health relating to my schoolwork, I know the resources that I can access that are provided to me by my classes and by the school. I imagine that students in other universities have their own support network, which a general application may be unaware of.
 
 - Bad collaboration: Partners don't show up to meetings, unequal effort, disagreements over problem solving
 
-  Reason for exclusion: In my opinion, unless it's to verify a proposition, I don't believe a software application can fix bad teamwork any better than personal confrontation. Though I think an app to find good teammates with similar work times and ethics is a good idea, I know that this has already been accomplished here with psetpartners.
+  Reason for exclusion: In my opinion, unless it's to verify a proposition, I don't believe a software application can fix bad teamwork any better than personal confrontation. I do believe that an app to find good teammates with similar work times and ethics is a good idea, however this has already been accomplished here with pset partners.
