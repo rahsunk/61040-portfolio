@@ -12,7 +12,7 @@
 
 3. **Traveling: International trips, vacations, exploring**
 
-   I like traveling to new faraway places. With my family, I have visited Toronto, the Bahamas, and multiple prefectures of Japan. Planning these trips is a lot of work but very fulfilling for me. Deciding what places to visit, what restaurants to eat at, and learning how to navigate cities is a highlight of the traveling experience. I wish to visit someplace in Europe next, but I feel like not knowing certain languages is a barrier I need to overcome.
+   I like traveling to new faraway places. With my family, I have visited Toronto, the Bahamas, and multiple prefectures of Japan. Planning these trips is a lot of work but very fulfilling for me. Deciding what places to visit, what restaurants to eat at, and learning how to navigate cities isdom a highlight of the traveling experience. I wish to visit someplace in Europe next, but I feel like not knowing certain languages is a barrier I need to overcome.
 
 4. Food: Trying new cultural foods, learning to cook new meals
 
@@ -100,23 +100,6 @@
 
   As someone who has repeatedly had issues with time management, I have often heard the advice that you should schedule not just your work, but your everyday routine, including eating, sleeping, and downtime. However, I find scheduling all of this to be daunting. The timing of my activities in my daily routine changes all the time, so it would be difficult for me to come up with a schedule on my own. I think an app that can generate a weekly schedule for me would be a great first step in improving time management skills.
 
-  ### Stakeholders:
-
-  - Users: People seeking to improve their time management
-  - Friends: Friends of users whose daily routine can affect the schedule of users and vice versa
-  - Event organizers: People who schedule continuous events that users attend, such as classes, work hours, and club meetings
-
-  Impacts:
-
-  Event organizers can be burdened by users with bad time management skills if they don't attend their events. A friend asking a user for free time (and vice versa) can complicate the other stakeholder's routine. Users, friends, and event organizers could all benefit from proper communication about their availability.
-
-  ### Features:
-
-  - Preference Form: A form of questions users can answer to help generate a schedule much
-  - Reminders: Notifications sent to users' phones to notify them a planned event in their schedule is about to start. Helps the user stick to their created schedule.
-  - To-do list: A list of responsibilities that the user has alongside their deadlines, periodically reminding the user of what tasks they need to complete
-  - Sharing schedules: Share your schedules with other users and non-users. This can inspire friends to create their own schedule and you can let others like your supervisors know when you plan to work and have free time.
-
 - Bad mental health: Stress and burnout, discouraged from trying
 
   Reason for exclusion: For my case, if I am struggling with my mental health relating to my schoolwork, I know the resources that I can access that are provided to me by my classes and by the school. I imagine that students in other universities have their own support network, which an application may be unaware of.
@@ -124,3 +107,27 @@
 - Bad collaboration: Partners don't show up to meetings, unequal effort, disagreements over problem solving
 
   Reason for exclusion: In my opinion, unless it's to verify a proposition, I don't believe a software application can fix bad teamwork any better than personal confrontation. Though I think an app to find good teammates with similar work times and ethics is a good idea, I know that this has already been accomplished here with psetpartners.
+
+### Stakeholders:
+
+1.
+2. Traveling: Navigating new areas
+3. Outside class work: Time management
+
+   - Users: People seeking to improve their time management
+   - Friends: Friends of users whose daily routine can affect the schedule of users and vice versa
+   - Event organizers: People who schedule continuous events that users attend, such as classes, work hours, and club meetings
+
+   Impacts:
+
+   Event organizers can be burdened by users with bad time management skills if they don't attend their events. A friend asking a user for free time (and vice versa) can complicate the other stakeholder's routine. Users, friends, and event organizers could all benefit from proper communication about their availability.
+
+### Features:
+
+1.
+2. Traveling: Navigating new areas
+3. Outside class work: Time management
+   - Preference Form: A form of questions users can answer to help generate a schedule much
+   - Reminders: Notifications sent to users' phones to notify them a planned event in their schedule is about to start. Helps the user stick to their created schedule.
+   - To-do list: A list of responsibilities that the user has alongside their deadlines, periodically reminding the user of what tasks they need to complete
+   - Sharing schedules: Share your schedules with other users and non-users. This can inspire friends to create their own schedule and you can let others like your supervisors know when you plan to work and have free time.
