@@ -43,6 +43,18 @@
 
   In the modern day, there are many things you need to research about before playing a new game. Does the game work without internet? Does the game allow crossplay (gameplay between different systems)? Does the game allow local and online multiplayer? What are the minimum specs needed to play the game? Sometimes finding this information can be difficult, especially if it's a game that has recently been released. I think an online respository that tracks this information would be an easy way for gamers to make sure that they have the correct setup to play the game by themselves and with others.
 
+  Stakeholders:
+
+  - Consumer: The users interested in a game and using the app
+  - Game developers: The people who create the games in the library
+  - Admins: People responsible for maintaining and updating the app
+
+  Impacts to stakeholders:
+
+  Features:
+
+  -
+
 - Health risks: Addiction, eye strain, hand strain
 
   Reason for exclusion: There are already many built-in features on gaming systems to prevent excessive playtime. These can be found in parental controls or just simple reminders to take a break. I believe that there are not many additional measures that can be taken to prevent this problem beyond the aforementioned features.
@@ -59,6 +71,21 @@
 
   Physical travel guides frequently contain outdated information, and in my experience, their features have been separated into multiple apps, such as an app just for finding rooms, and an app just for transit. I think an online app with continously updated information from user feedback would be a better way for people, especially newcomers to navigate places they visit. I believe that information on how to use transit systems (fare, train schedule) and foreign currency, which are often omitted in preexisting apps, would be a great feature to include in this app.
 
+  Stakeholders:
+
+  - Tourists: People traveling to a place and potential users of the app
+  - Reviewers: Users of the app who can provide feedback to improve it
+  - Admins: People responsible for maintaining and updating the app
+  - Local citizens: People who live in the areas that tourists visit
+
+  Impacts to stakeholders: TODO
+
+  Features:
+
+  1. User feedback: For a specific area, users (reviewers) can make a comment about what other features they would like to see be added, and correct any information that may be incorrect or outdated. Admins can then modify the app to take into account this feedback to improve the consumer experience.
+  2. Transit Guide: Not a Google Maps clone, but a beginners' guide on using the transit system that includes a map, schedule, and fare information. New tourists can use this in tandem with their Maps app to easily use the transit system for the first time.
+  3. Culture Guide: A guide on etiquette, manners, and cultural guidelines for users. This not only improves the experience of tourists but it also helps to not disturb local citizens.
+
 - Budgeting: Easy to overspend on vacations, planning budget on hotels, food, etc.
 
   Reason for exclusion: There are already apps that help solve these problems, like apps that point you to good deals for hotels and restaurants, and apps that track and notify your spending habits.
@@ -69,16 +96,31 @@
 
 3. Outside class work:
 
-- **Time Management: Scheduling hours, procrastination, multi-tasking**
+- **Time management: Scheduling hours, procrastination, multi-tasking**
 
-  **Customizable schedule generator**
+  As someone who has repeatedly had issues with time management, I have often heard the advice that you should schedule not just your work, but your everyday routine, including eating, sleeping, and downtime. However, I find scheduling all of this to be daunting. The timing of my activities in my daily routine changes all the time, so it would be difficult for me to come up with a schedule on my own. I think an app that can generate a weekly schedule for me would be a great first step in improving time management skills.
 
-  As someone who has repeatedly had issues with time management, I have often heard the advice that you should schedule not just your work, but your everyday routine, including eating, sleeping, and downtime. However, I find scheduling all of this to be daunting. The timing of my activities in my daily routine changes all the time, so it would be difficult for me to come up with a schedule on my own. I think an app that can generate a weekly schedule with reminders would resolve this first step and get me to improve my time management. I imagine this can be done by the app asking me about my weekly responsibilities and a few questions about my preferences in my daily life.
+  ### Stakeholders:
 
-- Mental Health: Stress and burnout, discouraged from trying
+  - Users: People seeking to improve their time management
+  - Friends: Friends of users whose daily routine can affect the schedule of users and vice versa
+  - Event organizers: People who schedule continuous events that users attend, such as classes, work hours, and club meetings
+
+  Impacts:
+
+  Event organizers can be burdened by users with bad time management skills if they don't attend their events. A friend asking a user for free time (and vice versa) can complicate the other stakeholder's routine. Users, friends, and event organizers could all benefit from proper communication about their availability.
+
+  ### Features:
+
+  - Preference Form: A form of questions users can answer to help generate a schedule much
+  - Reminders: Notifications sent to users' phones to notify them a planned event in their schedule is about to start. Helps the user stick to their created schedule.
+  - To-do list: A list of responsibilities that the user has alongside their deadlines, periodically reminding the user of what tasks they need to complete
+  - Sharing schedules: Share your schedules with other users and non-users. This can inspire friends to create their own schedule and you can let others like your supervisors know when you plan to work and have free time.
+
+- Bad mental health: Stress and burnout, discouraged from trying
 
   Reason for exclusion: For my case, if I am struggling with my mental health relating to my schoolwork, I know the resources that I can access that are provided to me by my classes and by the school. I imagine that students in other universities have their own support network, which an application may be unaware of.
 
-- Bad Collaboration: Partners don't show up to meetings, unequal effort, disagreements over problem solving
+- Bad collaboration: Partners don't show up to meetings, unequal effort, disagreements over problem solving
 
   Reason for exclusion: In my opinion, unless it's to verify a proposition, I don't believe a software application can fix bad teamwork any better than personal confrontation. Though I think an app to find good teammates with similar work times and ethics is a good idea, I know that this has already been accomplished here with psetpartners.
