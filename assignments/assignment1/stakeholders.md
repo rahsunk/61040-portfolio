@@ -3,22 +3,22 @@
 1. Video games: Finding communities
 
    - Consumers: Gamers interested in finding friends and communities relating to the game
-   - Outside friends: Friends consumers already have
+   - Outside friends: Friends that the consumers already have
    - Game developers: The people who create the games
 
    Impacts:
 
-   Consumers and outside friends may suffer from not sharing a connection through a game one of them enjoys. Outside friends would be interested in what new friends the consumer is making through the app. Developers would be interested in what communities like their games.
+   Consumers and outside friends may suffer from not sharing a connection through a game one of them enjoys. Outside friends would be interested in what new friends the consumer is making through gaming. Developers would be interested in what communities like their games.
 
 2. Traveling: Navigating new areas
 
-   - Tourists: People traveling to a place and potential users of the app
-   - Reviewers: Users of the app who can provide feedback to improve it
+   - Tourists: People traveling to a place for the first time
+   - Reviewers: People who have already traveled to a place and have insight about it
    - Local citizens: People who live in the areas that tourists visit
 
    Impacts:
 
-   Tourists would have difficulty navigating a place without a good guide. Local citizens could be burdened by tourists not knowing proper etiquette. They would also be interested if the information on the app about their home is accurate. Reviewers would want tourists to have a better experience by giving them anecdotes of their own experience using the app.
+   Tourists would have difficulty navigating a place without a good guide. Local citizens could be burdened by tourists not knowing proper etiquette. They would also be interested if online information about their home is accurate. Reviewers would want tourists to have a better experience by giving them anecdotes of their own experience.
 
 3. Outside class work: Time management
 
