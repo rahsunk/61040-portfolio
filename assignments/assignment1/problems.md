@@ -3,7 +3,6 @@
 ## Selected problems are bolded
 
 1. Video games:
-   (Used ChatGPT to generate a list of problems associated with this domain; explanations provided by myself)
 
 - **Finding communities: finding small gaming clubs and people with same gaming interests**
 
