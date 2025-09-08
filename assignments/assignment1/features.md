@@ -1,31 +1,15 @@
-# Stakeholders:
+# Features:
 
 1. Video games: Finding communities
-
-   - Consumers: Gamers interested in finding friends and communities relating to the game
-   - Outside friends: Friends that the consumers already have
-   - Game developers: The people who create the games
-
-Impacts:
-
-Consumers and outside friends may suffer from not sharing a connection through a game that one of them enjoys. Outside friends would be interested in what new friends the consumer is making through gaming. Developers would be interested in what communities like their games.
-
+   - Map search: By allowing permission to access your location, you can find other nearby users who are interested in the same game as you.
+   - Messaging: Send direct messages to people you meet through the app to get to know them better and discuss when to play with them.
+   - Gaming interests: In your profile, list the games you are interested in, and possibly some additional information about your playstyle so that others with similar interests may reach out to you.
 2. Traveling: Navigating new areas
-
-   - Tourists: People traveling to a place for the first time
-   - Reviewers: People who have already traveled to a place and have insight about it
-   - Local citizens: People who live in the areas that tourists visit
-
-Impacts:
-
-Tourists would have difficulty navigating a place without a good guide. Local citizens could be burdened by tourists not knowing proper etiquette. They would also be interested in whether online information about their home is accurate. Reviewers would want tourists to have a better experience by giving them anecdotes of their own experience.
-
+   - User feedback: For a specific area, users (reviewers) can make a comment about what other features they would like to see added, and correct any information that may be incorrect or outdated. Admins can then modify the app to take into account this feedback to improve the consumer experience.
+   - Transit Guide: Not necessarily a Google Maps clone, but a beginner's guide on using the transit system that includes a map, schedule, and fare information. New tourists can use this in tandem with their Maps app to easily use the transit system for the first time.
+   - Culture Guide: A guide on etiquette, manners, and cultural guidelines for users. This not only improves the experience of tourists but also helps to not disturb local citizens.
 3. Outside class work: Time management
-
-   - Users: People seeking to improve their time management
-   - Friends: Friends of users whose daily routine can affect the schedule of users and vice versa
-   - Event organizers: People who schedule continuous events that users attend, such as classes, work hours, and club meetings
-
-Impacts:
-
-Event organizers can be burdened by users with bad time management skills if they don't attend their events. A friend asking a user for free time (and vice versa) can complicate the other stakeholder's routine. Users, friends, and event organizers could all benefit from proper communication about their availability.
+   - Preference Form: A form of questions users can answer to help generate a schedule for them.
+   - Reminders: Notifications sent to users' phones to notify them that a planned event in their schedule is about to start. Helps the user stick to their created schedule.
+   - To-do list: A list of responsibilities that the user has alongside their deadlines, periodically reminding the user of what tasks they need to complete
+   - Sharing schedules: Share your schedules with other users and non-users. This can inspire friends to create their own schedule, and you can let others, like your supervisors, know when you plan to work and have free time.
