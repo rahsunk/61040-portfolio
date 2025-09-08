@@ -8,7 +8,15 @@
 
 2. Traveling: Navigating new areas
 
--
+- [Wayfinding Satisfaction on Tourist Revisit Intention: A Moderated Moderation Model of Travel Group Size and Tourism Information Service](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391169): A study that concluded that tourists who had a positive experience with navigation were more likely to revisit the places they visited.
+- [Wayfinding Strategies and Tourist Anxiety in Unfamiliar Destinations](https://www.researchgate.net/publication/272119767_Wayfinding_Strategies_and_Tourist_Anxiety_in_Unfamiliar_Destinations): A study on tourist anxiety amongst multiple groups of tourists. One of their conclusions was that difficulties in pathfinding significantly raised anxiety in travelers.
+- [Is the unfamiliarity of where you are a reason why traveling can actually be stressful?](https://www.reddit.com/r/travel/comments/1h2241r/is_the_unfamiliarity_of_where_you_are_a_reason/?): A Reddit post and discussion about how to navigate in unfamiliar areas without being anxious. Many commenters acknowledged that not knowing where essential locations are (like supermarkets) can be problematic, but learning how to stay relaxed and be independent is an important part of the travel experience.
+- [Why Getting Lost Makes for the Best Vacations](https://www.vogue.com/article/why-getting-lost-makes-for-the-best-vacations): Argues that not using navigation tools leads to more memorable travel experiences in foreign areas.
+- [https://wild-about-travel.com/independent-travel-vs-organized-tours/](https://wild-about-travel.com/independent-travel-vs-organized-tours/): Gives pros and cons for independent travel and professional tours. Mentions that some people may prefer to have the freedom to explore and suddenly change plans at their own pace, but also mentions that proper navigation in tours can lead you to famous places and activities.
+- [Google Maps](https://www.google.com/maps): An all-purpose mapping platform that can be used to find locations and routes nearly everywhere in the world.
+- [SmartGuide](https://www.smartguide.app/): Provides many audio tour guides by tracking your location and giving insights into places of interest. Also allows users to create their own guides and share them.
+- [Roadtrippers](https://roadtrippers.com/): Allows you to plan road trips, by creating routes and informing users about places of interest, gas station locations and food places.
+- [AllTrails](https://www.alltrails.com/): An app that allows users to connect to a database to discover outdoor acitivities, particularly hiking, biking, and running
 
 3. Outside class work: Time management
 
