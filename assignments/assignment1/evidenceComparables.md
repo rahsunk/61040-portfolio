@@ -4,7 +4,15 @@
 
 1. Video games: Finding communities
 
--
+- [Importance of Social Videogaming for Connection with Others During the COVID-19 Pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC9047596/): Numerical study that showed that online gaming between friends and family during the COVID-19 pandemic played a much larger role in social connection than before.
+- [Why Do Gamers Love Speedrunning So Much Anyway?](https://www.wired.com/story/why-gamers-love-speedrunning/): An editorial on how niche communities like speedrunning groups tend to be very supportive and welcoming to people with similar interests.
+- [The Upsides of Gaming: 4 Benefits and Ways Gaming Promotes Community](https://blog.heartmanity.com/the-upsides-of-gaming-4-benefits-and-ways-gaming-promotes-community): Provides 4 communal benefits to gaming: improved social skills, connections outside of your local area, greater self-experession, and greater collaboration.
+- [Editorial: The dark and the light side of gaming](https://pmc.ncbi.nlm.nih.gov/articles/PMC10803551/?utm_source=chatgpt.com): Examines positive and negative impacts of gaming. One negative impact it mentions is that online gaming tends to encourage harrassment and trolling moreso than individual gaming.
+- [The Dangers of the Echo Chamber Effect on Game Development](http://gamedeveloper.com/business/the-dangers-of-the-echo-chamber-effect-on-game-development): A article that warns about how tightly-knit groups like gaming communities are prone to the echo chamber effect, where people are exposed only to opinions that they already agree with, leading to a narrower perspective on certain issues. This can cause game developers to feel pressured to please their fanbase, even if it is not the best thing to do.
+- [An app to find gaming buddies](https://www.reddit.com/r/AppIdeas/comments/1c0q96m/an_app_to_find_gaming_buddies/): A Reddit user creates a poll in the r/AppIdeas subreddit to gauge interest in an app to find gaming friends subject to a variety of filters to avoid players with bad behavior. The option for "It's a good idea/I'd use it" won a plurality of the votes.
+- [GameTree](https://gametree.me/): Social discovery app for gamers that includes multiple settings and filters to find gamers with similar interests.
+- [Discord](https://discord.com/servers/gaming): Social media app originally made for gamers; hosts a large library of servers for popular games with thousands to millions of members, enabling people to play together with voice chat and streaming.
+- [Guilded](https://www.guilded.gg/): A communication app for gaming communities that allows users to organize events like tournaments through calendars in online servers.
 
 2. Traveling: Navigating new areas
 
@@ -16,7 +24,6 @@
 - [Google Maps](https://www.google.com/maps): An all-purpose mapping platform that can be used to find locations and routes nearly everywhere in the world.
 - [SmartGuide](https://www.smartguide.app/): Provides many audio tour guides by tracking your location and giving insights into places of interest. Also allows users to create their own guides and share them.
 - [Roadtrippers](https://roadtrippers.com/): Allows you to plan road trips, by creating routes and informing users about places of interest, gas station locations and food places.
-- [AllTrails](https://www.alltrails.com/): An app that allows users to connect to a database to discover outdoor acitivities, particularly hiking, biking, and running
 
 3. Outside class work: Time management
 
