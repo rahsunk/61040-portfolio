@@ -26,4 +26,6 @@ _Here's a picture of Kirby because why not_
 
 [Link to Assignment 1 (5 Markdown files)](assignments/assignment1)
 
+[Link to Exercise 1](exercises/exercise1.md)
+
 [Link to Assignment 2](assignments/assignment2.md)
