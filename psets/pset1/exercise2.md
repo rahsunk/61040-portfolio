@@ -13,11 +13,11 @@
 
     authenticate (username: String, password: String): (user: User)\
     **requires**: User with the same username and password exists\
-    **effects**: grants access to the User associated with that username and password`
+    **effects**: grants access to the User associated with that username and password
 
 3.  Every User must have a unique username. It is preserved by the _register_ action, which is the only action that can create a new User. It does not create a User if there already exists a User with the given name.
 
-4.  **state**
+4.  **state**\
     a set of Users with:\
     a username String,\
     a password String\
