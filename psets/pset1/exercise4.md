@@ -32,16 +32,16 @@
    a reserver User\
    a room Room
    a startTime Time\
-   an endTime Time\
+   an endTime Time
 
    **actions**
 
    book (reserver: User, room: Room, start: Time, end: Time): (book: Book)\
-   **requires**: reserver exists, there exists no booking for given room with (startTime >= start and endTime <= end)
+   **requires**: reserver exists, there exists no booking for given room with (startTime >= start and endTime <= end)\
    **effects**: create a new Booking at the given room during the time slot [start, end]
 
-   cancel (booking: Booking):
-   **requires**: booking exists
+   cancel (booking: Booking):\
+   **requires**: booking exists\
    **effects**: removes Booking object
 
    registerUser (username: String, password: String): (user: User)\
