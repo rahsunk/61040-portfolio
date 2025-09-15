@@ -1,6 +1,6 @@
 # Exercise 3
 
-**concept** PersonalAccessToken[User ]\
+**concept** PersonalAccessToken[User]\
 **purpose** provides an alternative to passwords to authenticate with GitHub\
 **principle** after a user creates a token, they or someone else can authenticate GitHub using the token and be granted access to that user's library.
 
