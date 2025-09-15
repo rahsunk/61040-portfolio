@@ -1,6 +1,7 @@
 # Exercise 2
 
-1.  **state**\
+1.  **state**
+
     a set of Users with:\
     a username String\
     a password String
@@ -17,12 +18,15 @@
 
 3.  Every User must have a unique username. It is preserved by the _register_ action, which is the only action that can create a new User. It does not create a User if there already exists a User with the given name.
 
-4.  **state**\
+4.  **state**
+
     a set of Users with:\
     a username String,\
     a password String\
     a flag confirmed\
     a token String
+
+    **actions**
 
     register (username: String, password: String, email: String): (user: User, token: String)\
      **requires**: no User with username exists\
