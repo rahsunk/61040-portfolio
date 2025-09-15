@@ -18,12 +18,12 @@ The **purchase** action is most affected by this design, since it is responsible
 
 We can also define new methods:
 
-showPreferences(registry: Registry)
-**requires**: registry exists and has at least one Request with _hidden_ set to true
+showPreferences(registry: Registry)\
+**requires**: registry exists and has at least one Request with _hidden_ set to true\
 **effects**: makes all Requests in registry have _hidden_ be false
 
-hidePreferences(registry: Registry)
-**requires**: registry exists and has at least one Request with _hidden_ set to false
+hidePreferences(registry: Registry)\
+**requires**: registry exists and has at least one Request with _hidden_ set to false\
 **effects**: makes all Requests in registry have _hidden_ be true.
 
 7. Representing User and Item as generic types gives more freedom to implementations of GiftRegistration and abstracts them to make them easier to understand compared to giving them defined attributes.
