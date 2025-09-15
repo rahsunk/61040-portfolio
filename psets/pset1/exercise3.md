@@ -1,13 +1,13 @@
 # Exercise 3
 
-**concept** PersonalAccessToken\
-**purpose** limit access to known users\
-**principle** after a user registers with a username and a password, they can authenticate with that same username and password and be treated each time as the same user\
+1.  **concept** PersonalAccessToken\
+     **purpose** limit access to known users\
+     **principle** after a user registers with a username and a password, they can authenticate with that same username and password and be treated each time as the same user\
 
     **state**\
-    a set of Users with:\
-    a username String\
-    a password String\
+     a set of Users with:\
+     a username String\
+     a password String\
 
 2.  **actions**
 
