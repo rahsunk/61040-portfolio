@@ -28,4 +28,6 @@ _Here's a picture of Kirby because why not_
 
 [Link to Pset 1 (4 Markdown files)](psets/pset1)
 
+[Link to Pset 2](psets/pset2)
+
 [Link to Assignment 2](assignments/assignment2.md)
