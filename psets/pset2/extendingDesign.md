@@ -2,7 +2,7 @@
 
 1.  **concept** Analytics [ShortUrl]\
     **purpose** Track the number of accesses for a shortUrl\
-    **principle** After a shortUrl is registered, viewAnalytics will return its number of accesses
+    **principle** After a shortUrl is registered, lookups will increment their number of accesses, and getCount will return its number of accesses
 
     **state**
 
@@ -13,7 +13,7 @@
     **actions**
 
         initCount(shortUrl: ShortUrl)
-            requires: shortUrl is registered and accessCount does not exist
+            requires: shortUrl is registered, and accessCount does not exist
             effects: initializes accessCount to 0
 
         incrementCount(shortUrl: ShortUrl)
@@ -45,19 +45,19 @@
             effects: returns owner associated with shortUrl
 
 2.  ```
-    sync set
+    sync setOwner
 
         when UrlShortening.register (): (shortUrl)
         then
-            Creator.setOwner(user, shortUrl)
-            Analytics.initCount(shortUrl: ShortUrl)
+            Creator.setOwner (user, shortUrl)
+            Analytics.initCount (shortUrl)
 
     ```
 
     ```
     sync incrementCount
 
-        when UrlShortening.lookup(shortUrl)
+        when UrlShortening.lookup (shortUrl)
         then Analytics.incrementCount (shortUrl)
 
     ```
@@ -74,7 +74,7 @@
 
 - Allowing users to choose their own short URLs
 
-  - I would modify NonceGeneration.generate to include a user-chosen suffix to be returned if it already isn't being used by the context.
+  - I would modify NonceGeneration.generate to include a user-chosen suffix parameter to be returned if it was not already used by the context. This change would be reflected in the _generate_ and _register_ syncs.
 
 - Using the “word as nonce” strategy to generate more memorable short URLs
 
