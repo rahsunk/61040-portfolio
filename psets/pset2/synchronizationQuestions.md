@@ -35,5 +35,5 @@
 5. ```
    sync expireResource
        when ExpiringResource.expireResource () : (resource)
-       then UrlShortening.delete(shortUrl: resource)
+       then UrlShortening.delete (shortUrl: resource)
    ```
