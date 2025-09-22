@@ -10,7 +10,7 @@
 
    The third sync is only invoked when a shortURL to targetURL mapping is successfully created through the UrlShortening.register action, so the _request_ action is redundant here.
 
-4. If domain name is fixed, then there is no need for the shortUrlBase and context arguments:
+4. If the domain name is fixed, then there is no need for the shortUrlBase and context arguments:
 
    ```
    sync generate
