@@ -10,7 +10,7 @@
 
     Abstraction Function(_c_) => {_c_ unique encoded strings}
 
-3.  One user advantage of using common dictionary words for nonce generation is that it is easy for the user to remember the shortened URL, allowing them to navigate to the target URL easier.
+3.  One user advantage of using common dictionary words for nonce generation is that it is easy for the user to remember the shortened URL, allowing them to navigate to the target URL more easily.
 
     One disadvantage is that this design choice is less customizable for the user, who may want to generate a shortURL using a suffix of their choice.
 
@@ -18,7 +18,7 @@
 
     **concept** NonceGeneration [Context]\
     **purpose** generate unique strings within a context\
-    **principle** each generate deletes and returns a string from the dictionary for that context
+    **principle** each generate action deletes and returns a string from the dictionary for that context
 
     **state**
 
