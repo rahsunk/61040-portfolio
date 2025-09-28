@@ -30,4 +30,4 @@ _Here's a picture of Kirby because why not_
 
 [Link to Pset 2 (3 Markdown files)](psets/pset2)
 
-[Link to Assignment 2](assignments/assignment2.md)
+[Link to Assignment 2](assignments/assignment2)
