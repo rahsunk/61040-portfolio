@@ -42,7 +42,7 @@
         requires: schedule exists
         effects: adds task to set of tasks in schedule with the given attributes and 0% for completionLevel
 
-    editTask(schedule: Schedule, oldTask: Task, deadline: Date, expectedCompletionTime: Number, completionLevel: percent priority: Percent)
+    editTask(schedule: Schedule, oldTask: Task, deadline: Date, expectedCompletionTime: Number, completionLevel: Percent priority: Percent)
         requires: oldTask is in the set of Tasks of schedule
         effects: modifies oldTasks in the set of Events in schedule with the given attributes
 
@@ -146,11 +146,11 @@
 
     system updateProgress(task: Task, completionLevel: Percent): (completionLevel: Percent)
         requires: task exists and the current time is 8PM
-        effects: updates task with a new completionLevel
+        effects: sends a notification to Users to update the completionLevel of task, and returns the new user-inputted completionLevel
 
 ---
 
-**concept** UserAuthentication\
+**concept** UserAuthentication[User]\
 **purpose** limit access to known users\
 **principle** after a user registers with a username and a password, they can authenticate with that same username and password and be treated each time as the same user
 
@@ -205,10 +205,10 @@
 ### Role concepts play
 
 1. ScheduleGenerator
-   - b
+   - ScheduleGenerator manages the creation and modification of schedules of events and tasks for users. As for its generic parameters, the User represents the authenticated owner of schedules, Time reperesents the time of day, RepeatTime specifies how often events repeat (e.g. Once every Monday, Weekends biweekly), Date represents a date on the calendar, and Percent reprsents a decimal between 0 to 1.
 2. EventSharing
-   - b
+   - EventSharing contains the state and actions responsible for sharing events with other users, and communicating with them about their times. The User, Time, and RepeatTime generic parameters have the same meaning as they do in ScheduleGenerator. The syncs with EventSharing ensure that changes made to SharedEvents are reflected in the events of the owner and the shared users, which in turn re-generates their schedules.
 3. ProgressReporting
-   - b
+   - ProgressReporting ensures that Users are reminded to update the completionLevels of their tasks, so that the sync with ScheduleGenerator can dyanimcally update the User's schedule every day depending on the user's progress. The User and Percent generic parameters have the same meaning as they do in ScheduleGenerator.
 4. UserAuthentication
-   - b
+   - UserAuthentication ensures that each registered and authenticated User has their own set of Schedules that they have access to. The User generic type here is used in the other concepts as the owner or recipient of events and tasks.
