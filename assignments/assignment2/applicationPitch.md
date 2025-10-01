@@ -10,7 +10,7 @@ Due to the large amount of responsibilities and activities that university stude
 
 1. Automatic task scheduler
    - Given a collection of weekly events (classes, work, clubs) and tasks (homework, projects), TaskTide will automatically generate times in your schedule to work on these tasks, subject to given preference and priority constraints. This significantly reduces the time students take to figure out when they should complete their tasks, and gives them a good starting point to effective task and time management that professors/TAs, and other event organizers are looking for.
-2. Daily Report
+2. Daily Progress Report
    - Every day at a specific time, TaskTide will ask the user to report their progress on all of their tasks. Doing so causes TaskTide to update the students' generated schedule to give more or less time to certain tasks. This feature helps students resolve unexpected changes in their schedule, which in university, happens all the time.
 3. Sharing events with other users
    - TaskTide gives the ability to share events with other users, which can help let others, like your friends and supervisors, know when you plan to work and have free time.
