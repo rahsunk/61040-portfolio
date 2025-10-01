@@ -91,7 +91,7 @@
         effects: deletes sharedEvent, i.e. this event is no longer able to be shared.
 
     shareEventWith(sharedEvent: SharedEvent, target: User): (sharedEvent: sharedEvent)
-        requires: target is not a sharedWith User of sharedEvent
+        requires: target exists and is not a sharedWith User of sharedEvent
         effects: adds target to sharedWith set of event, and returns the sharedEvent
 
     unshareEventWith(sharedEvent: SharedEvent, target: User)
@@ -203,3 +203,12 @@
             ScheduleGenerator.generateSchedule(owner of tasks, owner.events, owner.tasks): (newSchedule: Schedule | e: Error)
 
 ### Role concepts play
+
+1. ScheduleGenerator
+   - b
+2. EventSharing
+   - b
+3. ProgressReporting
+   - b
+4. UserAuthentication
+   - b
