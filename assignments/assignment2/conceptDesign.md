@@ -205,7 +205,7 @@
 ### Role concepts play
 
 1. ScheduleGenerator
-   - ScheduleGenerator manages the creation and modification of schedules of events and tasks for users. As for its generic parameters, the User represents the authenticated owner of schedules, Time reperesents the time of day, RepeatTime specifies how often events repeat (e.g. Once every Monday, Weekends biweekly), Date represents a date on the calendar, and Percent reprsents a decimal between 0 to 1.
+   - ScheduleGenerator manages the creation and modification of schedules of events and tasks for users. As for its generic parameters, the User represents the authenticated owner of schedules, Time reperesents the time of day, RepeatTime specifies how often events repeat (e.g. Once every Monday, Weekends biweekly, or Never), Date represents a date on the calendar, and Percent reprsents a decimal between 0 to 1.
 2. EventSharing
    - EventSharing contains the state and actions responsible for sharing events with other users, and communicating with them about their times. The User, Time, and RepeatTime generic parameters have the same meaning as they do in ScheduleGenerator. The syncs with EventSharing ensure that changes made to SharedEvents are reflected in the events of the owner and the shared users, which in turn re-generates their schedules.
 3. ProgressReporting
