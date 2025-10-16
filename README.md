@@ -24,10 +24,12 @@ _Here's a picture of Kirby because why not_
 
 # Table of Contents
 
-[Link to Assignment 1 (5 Markdown files)](assignments/assignment1)
+[FAQ + Contact Me](recitations/recitation7)
 
-[Link to Pset 1 (4 Markdown files)](psets/pset1)
+[Assignment 1 (5 Markdown files)](assignments/assignment1)
 
-[Link to Pset 2 (3 Markdown files)](psets/pset2)
+[Pset 1 (4 Markdown files)](psets/pset1)
 
-[Link to Assignment 2 (5 Markdown files)](assignments/assignment2)
+[Pset 2 (3 Markdown files)](psets/pset2)
+
+[Assignment 2 (5 Markdown files)](assignments/assignment2)

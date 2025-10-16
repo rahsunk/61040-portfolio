@@ -1,0 +1,14 @@
+.QAndA,
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.question {
+  font-weight: bold;
+}
+
+.answer {
+  font-style: italic;
+}
